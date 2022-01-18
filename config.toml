@@ -1,0 +1,4 @@
+baseURL = 'https://blog.barkau.net/'
+languageCode = 'en-us'
+title = 'MBK'
+theme = 'hello-friend-ng'
